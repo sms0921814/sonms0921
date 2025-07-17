@@ -1,4 +1,0 @@
-yfinance
-plotly
-follum
-streamlit.follum
